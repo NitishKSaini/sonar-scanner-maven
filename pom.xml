@@ -266,12 +266,10 @@
         </configuration>
       </plugin>
     <dependencies>
-    <dependency>
        <groupId>org.apache.maven.plugins</groupId>
        <artifactId>maven-surefire-plugin</artifactId>
        <version>2.22.2</version>
     </dependency>
-    </dependencies>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-scm-publish-plugin</artifactId>
