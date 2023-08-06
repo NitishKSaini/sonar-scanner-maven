@@ -10,8 +10,8 @@
 
   <groupId>org.sonarsource.scanner.maven</groupId>
   <artifactId>sonar-maven-plugin</artifactId>
-  <version>3.9.1.2184:sonar</version>
-  <packaging>maven-plugin</packaging>
+  <version>3.9.1.2184</version>
+  
 
   <name>SonarQube Scanner for Maven</name>
   <description>Trigger SonarQube analysis on Maven projects</description>
